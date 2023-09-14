@@ -1,0 +1,80 @@
+Boys
+
+Sub Juniors:
+    shotput
+    highjump
+    longjump            same as girls
+    100m
+    200m
+    4x100m relay
+Juniors:
+    shotput
+    highjump
+    longjump            same as girls
+    100m
+    200m
+    4x100m relay
+Seniors:
+    shotput
+    Javelin throw
+    Discus throw
+    Long jump
+    high jump
+    100m 
+    200m 
+    400m 
+    800m
+    4x100m relay
+Super Seniors:
+    shotput
+    Javelin 
+    Discus
+    longjump
+    highjump
+    Triple jump
+    100 
+    200
+    400
+    800
+    1600
+    4x100m relay
+    4x400m relay
+
+girls
+
+Sub Juniors:
+    shotput
+    highjump
+    longjump            
+    100m
+    200m
+    4x100m relay
+Juniors:
+    shotput
+    highjump
+    longjump            
+    100m
+    200m
+    4x100m relay
+Seniors:
+    shotput
+    Javelin throw
+    Discus throw
+    Long jump
+    high jump
+    100m 
+    200m 
+    400m 
+    4x100m relay
+
+Super Seniors:
+    shotput
+    Javelin 
+    Discus
+    longjump
+    highjump
+    Triple jump
+    100 
+    200
+    400
+    4x100m relay
